@@ -1,0 +1,130 @@
+html{
+  background-color: black;
+}
+  
+
+  h1{
+    color: white
+  }
+
+  h2{
+    margin: 4px 2px;  
+    text-align: center;
+  }
+
+  h3{
+    color: #491217;
+    margin: 2px;
+    background-color: cyan;
+    text-align: center;
+  }
+
+  h4{
+    margin: 2px;  
+    text-align: center;
+  }
+
+  p{
+    color: #062c33;
+  }
+
+  img{
+    width: 100%;
+    height:79%;
+  }
+
+  span{
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    color: blue;
+  }
+
+  span>a{
+    padding-top: 10px;
+  }
+
+  input[type=text], input[type=number] ,input[type=url] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap; 
+  }
+
+  .container-fluid {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center; 
+  }
+  
+  .card { 
+    margin: 5px;
+    border: 1px solid gray;
+    background-color: #d4edda;
+    display: flex;
+    width: 18.3rem;
+    flex-direction: column;
+    height: 27rem;
+  } 
+  .search{
+    width: 99% !important;
+  } 
+ 
+
+ 
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px; 
+  border: none;
+  cursor: pointer
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.center{
+  margin: 0 auto;
+  display: block;
+}
+ 
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+ 
+.modal {
+  display: none; 
+  position: fixed;  
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%;  
+  height: 100%;  
+  overflow: auto; 
+  background-color: rgb(0,0,0);  
+  background-color: rgba(0,0,0,0.4);  
+  padding-top: 60px;
+}
+ 
+.modal-content {
+  padding: 16px;
+  background-color: #fefefe;
+  margin: 5% auto 15% auto;  
+  border: 1px solid #888;
+  width: 50%;
+} 
+
+
+
+
+ 

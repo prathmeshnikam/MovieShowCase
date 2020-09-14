@@ -1,0 +1,3 @@
+#1. Project Name - Movie Library Showcase
+#2. Run Project Step - Open index.html in browser
+#3. Data - All data comes from dummy api - Url -> https://run.mocky.io/v3/eda3bc72-1f38-462c-82d8-df0a3045d861

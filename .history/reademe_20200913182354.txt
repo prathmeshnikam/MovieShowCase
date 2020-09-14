@@ -1,0 +1,2 @@
+#1. Project Name - Movie Library Showcase
+#.2 Run Project Step - Open index.html in browser
